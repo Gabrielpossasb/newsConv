@@ -1,6 +1,9 @@
-# conv.NEWS
 
-<div className><h1>Uma aplicação do tipo blog, com assinatura feita com stripe, </div>
+
+<div align='center'>
+   <h1>conv.NEWS</h1>
+   <h2>Uma aplicação do tipo blog, com assinatura feita com stripe,</h2>
+</div>
 
 <Bibliotecas>
 
