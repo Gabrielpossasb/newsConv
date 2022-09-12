@@ -2,13 +2,12 @@
 
 
 <div align='center'>
-   <img src='readmeLogo.svg' alt='logo para github'/>
-   <h1> conv.<font color='#faaf19'>NEWS </font></h1>
+   <img height='140px' src='./public/readmeLogo.svg' alt='logo para github'/>
+      
+   #### Uma aplicação do tipo blog, com sitema assinatura feita com stripe e autenticação com NextAuth ####
+
+   :link: <https://newsConv.vercel.app/> :link:
 </div>
-
-### Uma aplicação do tipo blog, com sitema assinatura feita com stripe e autenticação com NextAuth ###
-
-:link: <https://newsConv.vercel.app/> :link:
 
 ## :computer: Tecnlogias :
 
