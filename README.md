@@ -1,16 +1,25 @@
 
 
+
 <div align='center'>
-   <h1>conv.NEWS</h1>
-   <h2>Uma aplicação do tipo blog, com assinatura feita com stripe,</h2>
+   <img src='readmeLogo.svg' alt='logo para github'/>
+   <h1> conv.<font color='#faaf19'>NEWS </font></h1>
 </div>
 
-<Bibliotecas>
+### Uma aplicação do tipo blog, com sitema assinatura feita com stripe e autenticação com NextAuth ###
 
-nestAuth
-React
-TypeScript
-SCSS
-stripe
-FaunaDB
-Next
+:link: <https://newsConv.vercel.app/> :link:
+
+## :computer: Tecnlogias :
+
+- Next
+- React
+- Vercel
+
+## :rocket: Bibliotecas :
+
+- NextAuth
+- TypeScript
+- SCSS
+- Stripe
+- FaunaDB
