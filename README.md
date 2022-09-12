@@ -4,7 +4,7 @@
 <div align='center'>
    <img height='140px' src='./public/readmeLogo.svg' alt='logo para github'/>
       
-   #### Uma aplicação do tipo blog, com sitema assinatura feita com stripe e autenticação com NextAuth ####
+   #### Uma aplicação do tipo blog, com sitema assinatura feita com stripe e autenticação pelo github com NextAuth ####
 
    :link: <https://newsConv.vercel.app/> :link:
 </div>
