@@ -15,11 +15,12 @@
 ## :computer: Tecnlogias :
 
 - Next
-- React
 - Vercel
+- Figma
 
 ## :rocket: Bibliotecas :
 
+- React
 - NextAuth
 - TypeScript
 - SCSS
