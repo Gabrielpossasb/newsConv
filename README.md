@@ -26,3 +26,5 @@
 - SCSS
 - Stripe
 - FaunaDB
+- Axios
+- React Icons
